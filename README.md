@@ -21,7 +21,10 @@ The project's cornerstone was the development of an Excel dashboard that offers 
 4. Dashboard Design: Crafted a user-friendly interface that simplifies the complexity of data analysis, reflecting my ability to deliver technical solutions with practical implications.
 
 ## Results: Dashboard Visualization
-
+<p align="center">
+Interactive Excel Dashboard: <br/>
+<img src="https://i.imgur.com/idfi7hT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 ## Key Features
 1. Interactive Components: Slicers and form controls enable users to filter and sort through sales data, tailoring the view to their specific queries.
